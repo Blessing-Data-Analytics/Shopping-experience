@@ -59,4 +59,4 @@ Performed analysis including:
 ----
 ## 📊 Dashboard Preview
 
-![Dashboard]("C:\Users\USER\OneDrive\Pictures\Screenshots\SHOPPING.png")
+![Dashboard("C:\Users\USER\OneDrive\Pictures\Screenshots\SHOPPING.png")]
