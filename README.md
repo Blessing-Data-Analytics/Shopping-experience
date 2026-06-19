@@ -59,4 +59,4 @@ Performed analysis including:
 ----
 ## 📊 Dashboard Preview
 
-![Dashboard("C:\Users\USER\OneDrive\Pictures\Screenshots\SHOPPING.png")]
+![Dashboard(<img width="1895" height="747" alt="SHOPPING" src="https://github.com/user-attachments/assets/3be703b8-a5fd-43d7-ae26-04eb5a964170" />)
